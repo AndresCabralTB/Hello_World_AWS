@@ -29,6 +29,7 @@
     "@angular/platform-server": "^20.1.0",
     "@angular/router": "^20.1.0",
     "@angular/ssr": "^20.1.0",
+    "@aws-sdk/client-secrets-manager": "^3.864.0",
     "express": "^5.1.0",
     "mysql2": "^3.14.3",
     "rxjs": "~7.8.0",
